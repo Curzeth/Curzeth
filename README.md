@@ -3,3 +3,4 @@
 </div>
 <img src="https://raw.githubusercontent.com/Curzeth/Curzeth/main/Banner.jpg">
 <p>¡Hola! Soy Alan, un entusiasta de la programación en sus primeros pasos. 🚀</p>
+<script src="https://tryhackme.com/badge/3475442"></script>
